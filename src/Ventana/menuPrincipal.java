@@ -5,7 +5,7 @@
  */
 package Ventana;
 
-/** ver esto que onda
+/** angora si que si
  *
  * @author ginin
  */
